@@ -1,6 +1,6 @@
 ##Not a replacement, but as an additive GitHub can help you:
 * Crowdsource collaboration
-* Comment on Government Uses
+* Comment on [Open] Government 
 * Follow Projects/News
 * Host Data
 
