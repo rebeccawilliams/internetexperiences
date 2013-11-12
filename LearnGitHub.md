@@ -7,7 +7,8 @@
 ## Github 101
 * Sign up for GitHub [here](http://github.com).
 * Learn the lingo with the [GitHub Glossary](https://help.github.com/articles/github-glossary)
-  * Or _roughly_, Repository = Folder of Files, Fork = Copy to You, Pull Request = Submit Change, Issue = Problem to Discuss
+  * Or _roughly_: 
+  * Repository = Folder of Files, Fork = Copy to You, Pull Request = Submit Change, Issue = Problem to Discuss
 * Learn the syntax of this text with the [Markdown Cheat Sheet](http://codeglot.com/images/githubMarkdown.png).
 * Review the [GitHub basics slideshow](http://ben.balter.com/open-sourcing-government/#/git)
 * [Or Ask Ben!](https://github.com/benbalter/feedback)
