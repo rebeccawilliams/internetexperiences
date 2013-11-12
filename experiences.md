@@ -1,4 +1,6 @@
-Name, GitHub handle, Experience 
+Hello! I am interested in your first Internet experience. Please use the format below. 
+
+Name, GitHub username, Experience 
 
 Rebecca, @rebeccawilliams, searching AOL for "Beck"   
 Gabriela, @stereogab, sent email and searched for news on usenet on next My Bloody Valentine album  
