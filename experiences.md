@@ -1,4 +1,5 @@
-**Hello! I am interested in your first Internet experience. Please use the format below.** _If you anticipate many people submitting pull requests at once kip a few lines to make sure you don't overwrite another person!_
+**Hello! I am interested in your first Internet experience. Please use the format below.** 
+(If you anticipate many people submitting pull requests at once skip a few lines to make sure you don't overwrite another person!)
 
 Name, GitHub username, Experience 
 
