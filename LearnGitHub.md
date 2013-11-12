@@ -5,8 +5,9 @@
 * Host Data
 
 ## Github 101
-* Sign up for GitHub: [here](http://github.com). Beginners can just click "edit" in the browser. Here is [Markdown Cheat Sheet](http://daringfireball.net/projects/markdown/syntax) aka, what this text is written in.
+* Sign up for GitHub: [here](http://github.com).
 * [GitHub Glossary](https://help.github.com/articles/github-glossary)
+* [Markdown Cheat Sheet](http://daringfireball.net/projects/markdown/syntax) aka, what this text is written in.
 * [GitHub basics slideshow](http://ben.balter.com/open-sourcing-government/#/git)
 * [tryGit](http://try.github.io/levels/1/challenges/1)
 * [Or Ask Ben!](https://github.com/benbalter/feedback)
