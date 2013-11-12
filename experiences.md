@@ -1,4 +1,4 @@
-Hello! I am interested in your first Internet experience. Please use the format below. 
+Hello! I am interested in your first Internet experience. Please use the format below. Skip a few lines to make sure you don't overwrite another person!
 
 Name, GitHub username, Experience 
 
