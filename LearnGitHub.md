@@ -6,15 +6,15 @@
 
 ## Github 101
 * Sign up for GitHub [here](http://github.com).
-* [GitHub Glossary](https://help.github.com/articles/github-glossary)
-* [Markdown Cheat Sheet](http://daringfireball.net/projects/markdown/syntax) aka, what this text is written in.
-* [GitHub basics slideshow](http://ben.balter.com/open-sourcing-government/#/git)
-* [tryGit](http://try.github.io/levels/1/challenges/1)
+* Learn the lingo with the [GitHub Glossary](https://help.github.com/articles/github-glossary)
+* Learn the syntax of this text with the [Markdown Cheat Sheet](http://codeglot.com/images/githubMarkdown.png).
+* Review the [GitHub basics slideshow](http://ben.balter.com/open-sourcing-government/#/git)
 * [Or Ask Ben!](https://github.com/benbalter/feedback)
 
 ## For Practice 
 * Enter your first [Internet experience](https://github.com/rebeccawilliams/internet/blob/master/experiences.md) by clicking edit to submit a Pull Request.
 * Share your favorite taco recipe at [Taco Fancy](https://github.com/sinker/tacofancy)
+* Or [tryGit](http://try.github.io/levels/1/challenges/1)
 
 ## Examples Shown Today 
 
