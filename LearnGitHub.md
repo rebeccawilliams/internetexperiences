@@ -30,7 +30,7 @@
 * This Court Listener thread was [revisited 9 months later and quickly](https://github.com/statedecoded/statedecoded/issues/245)
 
 ### Other GitHub/Gov Examples ["Watch" your fav]
-* [GitHub and Goverment Communities](http://government.github.com/community/)
+* [GitHub and Government Communities](http://government.github.com/community/)
 * [Australia Open Data Policy](http://actgov.github.io/opendatapolicy/)
 * [DC Code project](http://dccode.org/) on GitHub [here](https://github.com/openlawdc)
 * [Cambridge GIS data](https://github.com/cambridgegis/cambridgegis_data)
