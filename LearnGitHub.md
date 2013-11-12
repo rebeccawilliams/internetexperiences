@@ -2,7 +2,7 @@
 * _Crowdsource collaboration_
 * _Discuss (Open) Government_
 * _Follow Projects/News_
-* _Host Data or Free Stand Up Sites_
+* _Host Data or Free Stand Up Websites_
 
 ## Github 101
 * Sign up for GitHub [here](http://github.com).
