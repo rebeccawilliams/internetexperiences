@@ -1,8 +1,8 @@
-##Not a replacement, but as an additive GitHub can help you:
-* Crowdsource collaboration
-* Comment on [Open] Government 
-* Follow Projects/News
-* Host Data
+###Not a replacement, but as an additive GitHub can help you:
+* _Crowdsource collaboration_
+* _Comment on (Open) Government Online_
+* _Follow Projects/News_
+* _Host Data_
 
 ## Github 101
 * Sign up for GitHub [here](http://github.com).
