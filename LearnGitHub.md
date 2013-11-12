@@ -15,8 +15,8 @@
 
 ## For Practice 
 * Enter your first [Internet Experience](https://github.com/rebeccawilliams/internet/blob/master/experiences.md) by clicking edit to submit a Pull Request.
-* Share your favorite taco recipe at [Taco Fancy](https://github.com/sinker/tacofancy)
-* Or [tryGit](http://try.github.io/levels/1/challenges/1)
+* Share your favorite taco recipe at [Taco Fancy](https://github.com/sinker/tacofancy).
+* Or [tryGit](http://try.github.io/levels/1/challenges/1).
 
 ## Examples Shown Today 
 
@@ -29,13 +29,13 @@
 
 ###GitHub as Discussion
 * Project Open Data has hosted many discussions, see this [licensing chat](https://github.com/project-open-data/project-open-data.github.io/pull/64) which resulted in [policy change](https://github.com/project-open-data/project-open-data.github.io/pull/135). 
-* Congress legislator data [talks](https://github.com/unitedstates/congress-legislators/issues?state=open)
-* This Court Listener thread was [revisited 9 months later and quickly](https://github.com/statedecoded/statedecoded/issues/245)
+* Congress legislator data [talks](https://github.com/unitedstates/congress-legislators/issues?state=open).
+* This Court Listener thread was [revisited 9 months later and quickly](https://github.com/statedecoded/statedecoded/issues/245).
 
 ### Other GitHub and Government Examples, "Watch" your fav
 * [GitHub and Government Communities](http://government.github.com/community/)
 * [Australia Open Data Policy](http://actgov.github.io/opendatapolicy/)
-* [DC Code project](http://dccode.org/) on GitHub [here](https://github.com/openlawdc)
+* [DC Code project](http://dccode.org/) on GitHub [here](https://github.com/openlawdc).
 * [Cambridge GIS data](https://github.com/cambridgegis/cambridgegis_data)
 
 
