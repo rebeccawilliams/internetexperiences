@@ -10,5 +10,6 @@ Name, GitHub username, Experience
 * Matt, @MRumsey, As my whole family huddled around our new computer, signing onto an AOL chatroom, reading something inappropriate, having my dad unplug the computer for a while longer.  
 * Bryan, @brybrydc, research the study abroad program "School for Field Studies."   
 * Scott, @bitb, posted to a Usenet group    
-* Lindsay, @ljoelle, downloading a Willy Wonka "nerds" game  
+* Lindsay, @ljoelle, downloading a Willy Wonka "nerds" game 
+* Parker, @parkr, helping my dad with syncing his Quicken Online database so he'd have a backup
 * Yours here!
