@@ -10,5 +10,7 @@ Name, GitHub username, Experience
 * Bryan, @brybrydc, research the study abroad program "School for Field Studies."   
 * Scott, @bitb, posted to a Usenet group    
 * Lindsay, @ljoelle, downloading a Willy Wonka "nerds" game  
-* Yours Here!
-
+*
+* 
+* 
+*
