@@ -29,7 +29,7 @@
 * Congress legislator data [talks](https://github.com/unitedstates/congress-legislators/issues?state=open)
 * This Court Listener thread was [revisited 9 months later and quickly](https://github.com/statedecoded/statedecoded/issues/245)
 
-### Other GitHub/Gov Examples ["Watch" your fav]
+### Other GitHub and Government Examples, "Watch" your fav
 * [GitHub and Government Communities](http://government.github.com/community/)
 * [Australia Open Data Policy](http://actgov.github.io/opendatapolicy/)
 * [DC Code project](http://dccode.org/) on GitHub [here](https://github.com/openlawdc)
