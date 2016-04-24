@@ -12,4 +12,5 @@ Name, GitHub username, Experience
 * Scott, @bitb, posted to a Usenet group    
 * Lindsay, @ljoelle, downloading a Willy Wonka "nerds" game 
 * Parker, @parkr, helping my dad with syncing his Quicken Online database so he'd have a backup
+* Jesús, @piranna, join a teenagers chat room in 1999 on a local superstore technology and electronics fairee and flirt online with a girl.
 * Yours here!
