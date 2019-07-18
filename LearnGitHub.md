@@ -3,7 +3,7 @@
 * _Discuss (Open) Government_
 * _Follow Projects/News_
 * _Host Data or Free Stand Up Websites_
-
+ADDING AN EDIT
 ## Github 101
 * Sign up for GitHub [here](http://github.com).
 * Learn the lingo with the [GitHub Glossary](https://help.github.com/articles/github-glossary)
