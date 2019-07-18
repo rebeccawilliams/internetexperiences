@@ -18,9 +18,9 @@
 * Share your favorite taco recipe at [Taco Fancy](https://github.com/sinker/tacofancy).
 * Or [tryGit](http://try.github.io/levels/1/challenges/1).
 
-## Examples Shown Today 
+## Examples Shown Today !!!
 
-###GitHub to Work on Files Together
+###GitHub to Work on Files Together ****
 
 * [Project Open Data](http://project-open-data.github.io/) is hosted via [GitHub](https://github.com/project-open-data/project-open-data.github.io)  
 * [NY Open Data Handbook](http://nys-its.github.io/open-data-handbook/). There is [less discussion](https://github.com/nys-its/open-data-handbook/commits/gh-pages) there. :disappointed:
@@ -38,6 +38,6 @@
 * [DC Code project](http://dccode.org/) on GitHub [here](https://github.com/openlawdc).
 * [Cambridge GIS data](https://github.com/cambridgegis/cambridgegis_data)
 
-
+Woot!!!
 
 ##Have more?? Add above! 
